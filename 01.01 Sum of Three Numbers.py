@@ -1,5 +1,5 @@
-First=input("First number: ")
-Second=input("Second number: ")
-Third=input("Third number: ")
+First=input("First Number: ")
+Second=input("Second Number: ")
+Third=input("Third Number: ")
 Total=int(First) + int(Second) + int(Third)
 print(Total)
