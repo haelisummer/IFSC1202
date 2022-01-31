@@ -1,4 +1,3 @@
-Number=input("Enter Number:")
-floatNumber=float(Number)
-Square= floatNumber * floatNumber 
-print(Square)
+Int=input ("Number:")
+Number= 5
+print (Number*Number)
