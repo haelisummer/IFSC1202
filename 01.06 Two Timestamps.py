@@ -1,10 +1,10 @@
-H1=int(input());
-M1=int(input());
-S1=int(input());
+H1=int(input("enter hours"));
+M1=int(input("enter minutes"));
+S1=int(input("enter seconds"));
 
-H2=int(input());
-M2=int(input());
-S2=int(input());
+H2=int(input("enter hours"));
+M2=int(input("enter minutes"));
+S2=int(input("enter seconds"));
 
 time1=H1+M1+S1;
 time2=H2+M2+S2;
